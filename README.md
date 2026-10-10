@@ -39,9 +39,13 @@ python pilihan.py
 Follow the on-screen prompts in your terminal to interact with the AI calculator.
 
 📂 Project Structure
+
 Plaintext
+
 ├── pilihan.py       # Main entry point to run the application
+
 ├── requirements.txt # Project dependencies
+
 └── README.md        # Project documentation
 🤝 Contributing
 Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
