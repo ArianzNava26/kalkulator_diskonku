@@ -1,10 +1,12 @@
-Indonesian AI Calculator 🇮🇩🤖
-An interactive, Python-based AI calculator tailored for Indonesian-speaking users. This project leverages AI capabilities to handle complex calculations and queries seamlessly through an intuitive interface.
+Indonesian & English AI Calculator 🇮🇩🤖
+An interactive, Python-based AI calculator tailored for Indonesian-speaking users and English-speaking users. This project leverages AI capabilities to handle complex calculations and queries seamlessly through an intuitive interface.
 
 🚀 Features
 AI-Powered Calculations: Intelligent processing for advanced mathematical or logical queries.
 
 Indonesian Language Support: Designed specifically to interact and respond in Indonesian.
+
+English Language Support: Designed specifically to interact and respond in English!
 
 Interactive Menu System: Simple and modular entry point via pilihan.py.
 
@@ -27,7 +29,7 @@ Bash
 python -m venv venv
 source venv/bin/activate  # On Windows use: venv\Scripts\activate
 Install dependencies:
-(If you have a requirements.txt file)
+(requirements.txt included)
 
 Bash
 pip install -r requirements.txt
@@ -35,14 +37,14 @@ pip install -r requirements.txt
 To start the application, run the main entry point file pilihan.py:
 
 Bash
-python pilihan.py
+python asking.py
 Follow the on-screen prompts in your terminal to interact with the AI calculator.
 
 📂 Project Structure
 
 Plaintext
 
-├── pilihan.py       # Main entry point to run the application
+├── asking.py       # Main entry point to run the application
 
 ├── requirements.txt # Project dependencies
 
